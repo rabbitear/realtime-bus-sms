@@ -28,7 +28,7 @@
     "jade": "~1.9.1",
     "morgan": "~1.5.1",
     "serve-favicon": "~2.2.0",
-    "snyk": "^1.92.6"
+    "snyk": "^1.234.0"
   },
   "snyk": true
 }
